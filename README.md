@@ -15,7 +15,6 @@
 ### 🛠️ Stack Tecnológico & Herramientas
 
 <p align="center">
-  <!-- Puedes ajustar los iconos según tus tecnologías favoritas (ej: scala, react, docker, linux, git, etc.) -->
   <img src="https://skillicons.dev/icons?i=scala,react,docker,linux,git,vscode,python,fastapi" alt="Skill Icons" />
 </p>
 
@@ -29,12 +28,10 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ThomasJavierVidela&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasJavierVidela&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### 📂 Proyectos Destacados
+*(Aquí puedes mencionar o enlazar tus desarrollos principales)*
+* **[Proyecto 1](https://github.com/TU_USUARIO/repo)** - Breve descripción de lo que hace y las tecnologías usadas.
+* **[Proyecto 2](https://github.com/TU_USUARIO/repo)** - Breve descripción de lo que hace y las tecnologías usadas.
 
 ---
 
@@ -46,3 +43,13 @@
 * **Editores y Entornos:** VS Code / Terminal personalizada.
 
 </details>
+
+---
+
+### 📬 Contacto
+
+<p align="center">
+  <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
